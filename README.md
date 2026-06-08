@@ -91,19 +91,19 @@
 
 
 
-<div align="center">
+//div align="center">
 
-# 📊 My Github Stats 📊
+//# 📊 My Github Stats 📊
 
   
-<p align="center">
-  <a href="https://github.com/yujinjung-git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinjung-git&layout=compact&show_icons=ture&show_owner=ture&hide_title=ture&theme=nord&hide=html" />
-  </a>
-</p>
-</div>
+//<p align="center">
+//  <a href="https://github.com/yujinjung-git">
+//    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinjung-git&layout=compact&show_icons=ture&show_owner=ture&hide_title=ture&theme=nord&hide=html" />
+//  </a>
+//</p>
+//</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yujinjung-git&title=&include_all_commits=true&hide=totalstarsearned&show_icons=true&theme=cobalt" />
+//<div align="center">
+//<img src="https://github-readme-stats.vercel.app/api?username=yujinjung-git&title=&include_all_commits=true&hide=totalstarsearned&show_icons=true&theme=cobalt" />
 
-</div>
+//</div>
