@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hihi.. .. ..🥳&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hihi..🥳&fontSize=50&animation=twinkling)
 
 # Hi👋, I'm YujinJung!🤗
     
@@ -91,19 +91,3 @@
 
 
 
-//div align="center">
-
-//# 📊 My Github Stats 📊
-
-  
-//<p align="center">
-//  <a href="https://github.com/yujinjung-git">
-//    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinjung-git&layout=compact&show_icons=ture&show_owner=ture&hide_title=ture&theme=nord&hide=html" />
-//  </a>
-//</p>
-//</div>
-
-//<div align="center">
-//<img src="https://github-readme-stats.vercel.app/api?username=yujinjung-git&title=&include_all_commits=true&hide=totalstarsearned&show_icons=true&theme=cobalt" />
-
-//</div>
